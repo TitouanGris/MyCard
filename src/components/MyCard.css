@@ -1,0 +1,18 @@
+.rating {
+    font-size: 24px;
+}
+
+.star {
+    color: lightgray;
+    font-size: 24px;
+}
+.filled {
+    color: gold;
+}
+.figure img{
+    width: 33vw;
+}
+.figure {
+    display: flex;
+    justify-content: center;
+}
